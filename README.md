@@ -8,18 +8,18 @@ Available on the [Unreal Marketplace](https://unrealengine.com/marketplace/en-US
 * Look for AdvancedEditorUtilities
 * Activate the checkbox
 * Restart the editor
-* [OPTIONAL], if you want to enable it by default for every project, go to `Engine\Plugins\Marketplace\AdvancedEditorUtilities` and edit `AdvancedEditorUtilities.uplugin` by adding `"EnabledbByDefault": true,`
+* [OPTIONAL], if you want to enable it by default for every project, go to `Engine\Plugins\Marketplace\AdvancedEditorUtilities` and edit `AdvancedEditorUtilities.uplugin` by adding `"EnabledbByDefault": true,` and setting `"Installed": false,` if you don't want it to show up in the .uproject file
 
 ## How to use
 
 ### Open file in windows explorer
 * Select a file in content browser
-* Press ALT + F to open it in windows explorer
+* Press CTRL + ALT + E to open it in windows explorer
 * [NOTE] If you select multiple files it will open all the respective folders at once
 
 ### Activate the main widget
-* Click the extension button in the top bar (or press CTRL + ALT + U) to focus the main utility widget (The shortcut could be changed or removed in Editor Settings)
-* Right click the widget and select `Run Editor Utility Widget` and a window should pop up
+* Click the extension button in the top bar (or press CTRL + ALT + SHIFT + E) to focus the main utility widget and run it (The shortcut could be changed or removed in Editor Settings)
+* Right click any widget in the "Containers" folder and select `Run Editor Utility Widget` to open it, if you don't want to use the main widget but only a part of it.
 * Drag the window wherever you want, resize it, you can even snap it into the editor layout (as you can see in the Marketplace Pictures)
 
 ### Viewport mode selector
