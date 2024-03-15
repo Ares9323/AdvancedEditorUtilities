@@ -1,3 +1,6 @@
+![Forum_AEU](https://github.com/Ares9323/AdvancedEditorUtilities/assets/46932745/4c3d5c75-c1c6-4844-9d41-ad17a53c441b)
+
+
 # AdvancedEditorUtilities
 Widgets and Utilities to improve your daily workflow in Unreal Engine
 Available on the [Unreal Marketplace](https://unrealengine.com/marketplace/en-US/product/f375645593fc4d909bf8c79b9f64a066)
@@ -50,6 +53,7 @@ Available on the [Unreal Marketplace](https://unrealengine.com/marketplace/en-US
 ![image](https://github.com/Ares9323/AdvancedEditorUtilities/assets/46932745/e2bc595a-f3eb-4b4f-b95c-23e683c67956)
 
 * You can edit the "Common strings to search" array to change the dropdown menu in the extension:
+
 ![image](https://github.com/Ares9323/AdvancedEditorUtilities/assets/46932745/fa39e338-751c-4ca3-9f77-377307a98cdc)
 
 * You can also assign them a shortcut to launch the filter automatically:
